@@ -1,4 +1,6 @@
 {
+    "name": "sbodian",
+    "description": "symfony 4 formation",
     "type": "project",
     "license": "proprietary",
     "require": {
