@@ -75,7 +75,7 @@
             "@compile"
         ],
         "compile": [
-            "php bin/console doctrine:migrations:migrate --no-interation --env=PROD"
+            "php bin/console doctrine:migrations:migrate --no-interaction --env=PROD"
         ]
     },
     "conflict": {
