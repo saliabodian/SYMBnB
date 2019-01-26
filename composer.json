@@ -67,8 +67,7 @@
             "assets:install %PUBLIC_DIR%": "symfony-cmd"
         },
         "post-install-cmd": [
-            "@auto-scripts",
-            "doctrine:migrations:migrate --no-interaction"
+            "@auto-scripts"
         ],
         "post-update-cmd": [
             "@auto-scripts"
